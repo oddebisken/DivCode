@@ -1,0 +1,4 @@
+###############KJØR VM DEVOPS AGENT###############
+
+set-location -path C:\agent
+.\run.cmd
